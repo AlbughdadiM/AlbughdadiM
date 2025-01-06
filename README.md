@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [@AlbughdadiM](https://github.com/AlbughdadiM)
 
 ## About Me:
-- 🔍 Passionate about **Machine Learning (ML)** applied to **Earth Observation (EO)** and **Cloud Computing**
+- 🔍 Passionate about **Machine Learning (ML)** 🤖 applied to **Earth Observation (EO)** :🌍 and **Cloud Computing** ☁️
 - 🌱 Certified **Google Cloud ML Engineer**  
   📚 PhD in **Statistical ML** for **Medical Image Analysis**  
   🤖 Postdoc in **Artificial Intelligence (AI)** applied to **Remote Sensing**  
