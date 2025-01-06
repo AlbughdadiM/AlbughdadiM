@@ -4,4 +4,4 @@
 to remote sensing with 8 years of research and industrial experience
 
 ![AlbughdadiM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbughdadiM&show_icons=true&theme=transparent)
-[![Favourite Project](https://github-readme-stats.vercel.app/api/pin/?username=AlbughdadiM&repo=satellite-sam-dashboard)](https://github.com/AlbughdadiM/satellite-sam-dashboard)
+[![Favourite Project](https://github-readme-stats.vercel.app/api/pin/?username=AlbughdadiM&repo=satellite-sam-dashboard&show_icons=true&theme=transparent)](https://github.com/AlbughdadiM/satellite-sam-dashboard)
