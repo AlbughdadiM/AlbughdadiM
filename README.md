@@ -15,6 +15,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbughdadiM&langs_count=8&theme=transparent)
 
 ## Favourite Projects:
+
+### 🌍 [Lightweight Metadata-Aware Mixture-of-Experts Masked Autoencoder](https://github.com/AlbughdadiM/geo-moe-mae)
+[![Favourite Project1](https://github-readme-stats.vercel.app/api/pin/?username=AlbughdadiM&repo=geo-moe-mae&show_icons=true&theme=transparent&show_owner)](https://github.com/AlbughdadiM/geo-moe-mae)
+
 ### 🌍 [Satellite SAM Dashboard](https://github.com/AlbughdadiM/satellite-sam-dashboard)
 [![Favourite Project1](https://github-readme-stats.vercel.app/api/pin/?username=AlbughdadiM&repo=satellite-sam-dashboard&show_icons=true&theme=transparent&show_owner)](https://github.com/AlbughdadiM/satellite-sam-dashboard)
 
