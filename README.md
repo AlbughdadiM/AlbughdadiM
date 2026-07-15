@@ -48,6 +48,14 @@ Research areas include **machine learning**, **self-supervised representation le
 
 ## Favourite Projects
 
+### 🌍 A Latent World Model for Cloud-Aware EO Monitoring  
+🔗 https://github.com/AlbughdadiM/geo-moe-mae  
+
+![Stars](https://img.shields.io/github/stars/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
+![Forks](https://img.shields.io/github/forks/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
+![License](https://img.shields.io/github/license/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
+
 ### 🌍 Lightweight Metadata-Aware Mixture-of-Experts Masked Autoencoder  
 🔗 https://github.com/AlbughdadiM/geo-moe-mae  
 
