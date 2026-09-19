@@ -48,8 +48,16 @@ Research areas include **machine learning**, **self-supervised representation le
 
 ## Favourite Projects
 
+### 🌍 Compact Multimodal Fusion-First Mixture-of-Experts Masked Autoencoder
+🔗 https://github.com/AlbughdadiM/compact-multimodal-moe-eo
+
+![Stars](https://img.shields.io/github/stars/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
+![Forks](https://img.shields.io/github/forks/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
+![License](https://img.shields.io/github/license/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
+
 ### 🌍 A Latent World Model for Cloud-Aware EO Monitoring  
-🔗 https://github.com/AlbughdadiM/geo-moe-mae  
+🔗 https://github.com/AlbughdadiM/lewm-eo-cloud-monitoring  
 
 ![Stars](https://img.shields.io/github/stars/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
