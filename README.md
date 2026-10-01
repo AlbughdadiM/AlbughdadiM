@@ -56,6 +56,8 @@ Research areas include **machine learning**, **self-supervised representation le
 ![License](https://img.shields.io/github/license/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
 
+---
+
 ### 🌍 A Latent World Model for Cloud-Aware EO Monitoring  
 🔗 https://github.com/AlbughdadiM/lewm-eo-cloud-monitoring  
 
@@ -63,6 +65,8 @@ Research areas include **machine learning**, **self-supervised representation le
 ![Forks](https://img.shields.io/github/forks/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
 ![License](https://img.shields.io/github/license/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/AlbughdadiM/lewm-eo-cloud-monitoring?style=flat-square)
+
+---
 
 ### 🌍 Lightweight Metadata-Aware Mixture-of-Experts Masked Autoencoder  
 🔗 https://github.com/AlbughdadiM/geo-moe-mae  
