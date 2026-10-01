@@ -48,7 +48,7 @@ Research areas include **machine learning**, **self-supervised representation le
 
 ## Favourite Projects
 
-### 🌍 Compact Multimodal Fusion-First Mixture-of-Experts Masked Autoencoder
+### 🌍 Modality-Conditioned Routing Before Fusion in a Compact Earth Observation Encoder
 🔗 https://github.com/AlbughdadiM/compact-multimodal-moe-eo
 
 ![Stars](https://img.shields.io/github/stars/AlbughdadiM/compact-multimodal-moe-eo?style=flat-square)
