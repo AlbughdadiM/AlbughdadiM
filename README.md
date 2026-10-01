@@ -80,8 +80,6 @@ Research areas include **machine learning**, **self-supervised representation le
 ![License](https://img.shields.io/github/license/AlbughdadiM/satellite-sam-dashboard?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/AlbughdadiM/satellite-sam-dashboard?style=flat-square)
 
----
-
 ### 🌐 Sentinel-2 Explorer  
 🔗 https://github.com/AlbughdadiM/sentinel2-explorer  
 
